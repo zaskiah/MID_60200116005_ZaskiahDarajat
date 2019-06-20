@@ -1,4 +1,5 @@
 <?php
 $r= "halo";
-echo $r;
+$a="dunia";
+echo $r+$a;
 ?>
